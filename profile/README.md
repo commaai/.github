@@ -18,6 +18,10 @@
 * [calibration challenge](https://github.com/commaai/calib_challenge)
 * design challenge: coming soon, check out [@comma__design](https://twitter.com/comma__design) for now
 
+## Public datasets
+* [Semantically labeled crowd-sourced driving images](https://github.com/commaai/comma10k)
+* [33 hours of driving on california highway](https://github.com/commaai/comma2k19)
+
 ## We're hiring
 
 Check out our [job listings](https://comma.ai/jobs).
