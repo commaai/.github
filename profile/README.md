@@ -1,8 +1,9 @@
 ![](https://i.imgur.com/b0ZyIx5.jpg)
 
-We build [openpilot](https://github.com/commaai/openpilot), an open source driver assistance system that supports 200+ car makes and models.
+# comma
 
-We also sell the [comma three](https://comma.ai/shop/products/three), a devkit that runs openpilot. 
+* **[openpilot](https://github.com/commaai/openpilot)**: an open source driver assistance system that supports 200+ supported car makes and models
+* **[comma three](https://comma.ai/shop/products/three)**: a devkit that runs openpilot
 
 ## Follow us
 
@@ -19,4 +20,4 @@ We also sell the [comma three](https://comma.ai/shop/products/three), a devkit t
 
 ## We're hiring
 
-Check out our [open positions](https://comma.ai/jobs).
+Check out our [job listings](https://comma.ai/jobs).
