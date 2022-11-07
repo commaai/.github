@@ -7,10 +7,10 @@
 
 ## Follow us
 
-* Blog: https://blog.comma.ai
-* Twitter: https://twitter.com/comma_ai
-* Discord: https://discord.comma.ai
-* YouTube: https://www.youtube.com/c/commaai
+* Blog: [blog.comma.ai](https://blog.comma.ai)
+* Twitter: [@comma_ai](https://twitter.com/comma_ai)
+* Discord: [discord.comma.ai](https://discord.comma.ai)
+* YouTube: [youtube.com/c/commaai](https://www.youtube.com/c/commaai)
 
 ## Try our challenges
 
@@ -19,8 +19,8 @@
 * design challenge: coming soon, check out [@comma__design](https://twitter.com/comma__design) for now
 
 ## Public datasets
-* [Semantically labeled crowd-sourced driving images](https://github.com/commaai/comma10k)
-* [33 hours of driving on california highway](https://github.com/commaai/comma2k19)
+* [comma10k](https://github.com/commaai/comma10k): Semantically labeled crowd-sourced driving images
+* [comma2k19](https://github.com/commaai/comma2k19): 33 hours of driving on California highway
 
 ## We're hiring
 
