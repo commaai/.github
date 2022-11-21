@@ -3,7 +3,7 @@
 # comma
 
 * **[openpilot](https://github.com/commaai/openpilot)**: an open source driver assistance system that supports 200+ supported car makes and models
-* **[comma three](https://comma.ai/shop/products/three)**: a devkit that runs openpilot
+* **[comma three](https://comma.ai/shop/comma-three)**: a devkit that runs openpilot
 
 ## Follow us
 
