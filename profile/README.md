@@ -19,6 +19,7 @@
 * design challenge: coming soon, check out [@comma__design](https://twitter.com/comma__design) for now
 
 ## Public datasets
+* [commaVQ](https://github.com/commaai/commavq): 100k minutes of tokenized driving video
 * [comma10k](https://github.com/commaai/comma10k): Semantically labeled crowd-sourced driving images
 * [comma2k19](https://github.com/commaai/comma2k19): 33 hours of driving on California highway
 
