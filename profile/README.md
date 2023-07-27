@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/b0ZyIx5.jpg)](https://github.com/commaai/openpilot)
+[![](https://github.com/commaai/.github/assets/4038174/98c26030-cd4e-4d24-bbba-c044e074e917)](https://github.com/commaai/openpilot)
 
 # comma
 
