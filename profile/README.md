@@ -1,9 +1,9 @@
-[![](https://github.com/commaai/.github/assets/4038174/98c26030-cd4e-4d24-bbba-c044e074e917)](https://github.com/commaai/openpilot)
+[![openpilot on the comma 3X](https://github.com/commaai/.github/assets/4038174/53adf4b7-d17e-4c82-9831-e181d42bdac9)](https://github.com/commaai/openpilot)
 
 # comma
 
 * **[openpilot](https://github.com/commaai/openpilot)**: an open source driver assistance system that supports 250+ supported car makes and models
-* **[comma three](https://comma.ai/shop/comma-three)**: a devkit that runs openpilot
+* **[comma 3X](https://comma.ai/shop/comma-3x)**: our device to make driving chill
 
 ## Follow us
 
