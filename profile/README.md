@@ -10,7 +10,7 @@
 * Blog: [blog.comma.ai](https://blog.comma.ai)
 * Twitter: [@comma_ai](https://twitter.com/comma_ai)
 * Discord: [discord.comma.ai](https://discord.comma.ai)
-* YouTube: [youtube.com/c/commaai](https://www.youtube.com/c/commaai)
+* YouTube: [youtube.com/@commaai](https://www.youtube.com/@commaai)
 
 ## Try our challenges
 
