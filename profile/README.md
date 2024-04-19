@@ -20,6 +20,7 @@
 
 ## Public datasets
 * [commaVQ](https://github.com/commaai/commavq): 100k minutes of tokenized driving video
+* [commaCarSegments](https://huggingface.co/datasets/commaai/commaCarSegments): sanetized segments of can and carParams for each car that openpilot supports
 * [commaSteeringControl](https://github.com/commaai/comma-steering-control): ~12500 hrs of car steering controls data
 * [comma10k](https://github.com/commaai/comma10k): Semantically labeled crowd-sourced driving images
 * [comma2k19](https://github.com/commaai/comma2k19): 33 hours of driving on California highway
