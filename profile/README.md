@@ -16,6 +16,7 @@
 
 * [openpilot CTF](https://github.com/commaai/openpilot/blob/master/tools/CTF.md)
 * [calibration challenge](https://github.com/commaai/calib_challenge)
+* [controls challenge](https://github.com/commaai/controls_challenge)
 * design challenge: coming soon, check out [@comma__design](https://twitter.com/comma__design) for now
 
 ## Public datasets
