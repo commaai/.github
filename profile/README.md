@@ -25,6 +25,10 @@
 * [comma10k](https://github.com/commaai/comma10k): Semantically labeled crowd-sourced driving images
 * [comma2k19](https://github.com/commaai/comma2k19): 33 hours of driving on California highway
 
+## Contribute
+
+Development is coordinated on our [Discord](https://discord.comma.ai) and through [paid bounties](https://github.com/orgs/commaai/projects/26).
+
 ## We're hiring
 
 Check out our [job listings](https://comma.ai/jobs).
