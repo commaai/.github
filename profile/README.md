@@ -15,8 +15,8 @@
 ## Try our challenges
 
 * [openpilot CTF](https://github.com/commaai/openpilot/blob/master/tools/CTF.md)
-* [calibration challenge](https://github.com/commaai/calib_challenge)
 * [controls challenge](https://github.com/commaai/controls_challenge)
+* [calibration challenge](https://github.com/commaai/calib_challenge)
 
 ## Public datasets
 * [commaVQ](https://github.com/commaai/commavq): 100k minutes of tokenized driving video
