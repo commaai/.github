@@ -12,11 +12,7 @@
 * Discord: [discord.comma.ai](https://discord.comma.ai)
 * YouTube: [youtube.com/@commaai](https://www.youtube.com/@commaai)
 
-## Try our challenges
-
-* [openpilot CTF](https://github.com/commaai/openpilot/blob/master/tools/CTF.md)
-* [controls challenge](https://github.com/commaai/controls_challenge)
-* [calibration challenge](https://github.com/commaai/calib_challenge)
+## Try our challenges at [comma.ai/leaderboard](https://comma.ai/leaderboard)
 
 ## Public datasets
 * [commaVQ](https://github.com/commaai/commavq): 100k minutes of tokenized driving video
