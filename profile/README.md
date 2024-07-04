@@ -1,5 +1,3 @@
-[![openpilot on the comma 3X](https://github.com/commaai/.github/assets/4038174/53adf4b7-d17e-4c82-9831-e181d42bdac9)](https://github.com/commaai/openpilot)
-
 # comma
 
 * **[openpilot](https://github.com/commaai/openpilot)**: an open source driver assistance system that supports 250+ supported car makes and models
@@ -28,3 +26,5 @@ Development is coordinated on our [Discord](https://discord.comma.ai) and throug
 ## We're hiring
 
 Check out our [job listings](https://comma.ai/jobs).
+
+[![openpilot on the comma 3X](https://github.com/commaai/.github/assets/4038174/53adf4b7-d17e-4c82-9831-e181d42bdac9)](https://github.com/commaai/openpilot)
