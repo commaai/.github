@@ -1,5 +1,8 @@
 # comma
 
+> [!IMPORTANT]
+> COMMA_CON 2025 is happening Nov 8th in San Diego. Get your ticket [here](https://tickets.comma-con.com/events/comma/1859964).
+
 * **[openpilot](https://github.com/commaai/openpilot)**: an open source driver assistance system that supports 250+ supported car makes and models
 * **[comma 3X](https://comma.ai/shop/comma-3x)**: our device to make driving chill
 
